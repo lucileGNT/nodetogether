@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lucileGNT/nodetogether/issues"
   },
-  "homepage": "https://github.com/lucileGNT/nodetogether#readme"
+  "homepage": "https://github.com/lucileGNT/nodetogether#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
